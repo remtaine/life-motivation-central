@@ -15,12 +15,12 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Remtaine
-    display_name: Remtaine
+    name: Ben Smith
+    display_name: Ben Smith
     avatar: 'assets/images/avatar.png'
     #gravatar: e56154546cf4be74e393c62d1ae9f9d4
     #email: wowthemesnet@gmail.com
-    web: https://www.remaine.com/
+    web: https://www.remtaine.com/
     twitter: https://twitter.com/remtaine
     description: "Author of Life Motivation Central!"
   #john:
