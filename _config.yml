@@ -1,27 +1,28 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "Life Motivation Central"
+title: "Life Motivation Central"
+description: "I will take you to where you want to go! Go after your dreams!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
-google_analytics: 'UA-xxxxxxxx-1'
+#google_analytics: 'UA-xxxxxxxx-1'
 #disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+#email: wowthemesnet@gmail.com
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    name: Remtaine
+    display_name: Remtaine
+    avatar: 'assets/images/avatar.png'
+    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    #email: wowthemesnet@gmail.com
+    web: https://www.remaine.com/
+    twitter: https://twitter.com/remtaine
+    description: "Author of Life Motivation Central!"
   #john:
     #name: John
     #display_name: John    
