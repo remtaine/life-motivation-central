@@ -144,6 +144,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap (~> 4.4.1)
+  jekyll
   jekyll-archives
   jekyll-feed
   jekyll-figure
